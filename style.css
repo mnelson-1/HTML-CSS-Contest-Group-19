@@ -194,6 +194,11 @@ section {
   margin-bottom: 1rem;
 }
 
+#bigger_head {
+  font-size: 7rem;
+  text-align: center;
+}
+
 .title {
   font-size: 3rem;
   text-align: center;
